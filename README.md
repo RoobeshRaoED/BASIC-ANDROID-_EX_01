@@ -121,7 +121,7 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT:
 ## OnCreate Executed:
-![](OnCreate%20Executed.png)
+##![](OnCreate%20Executed.png)
 
 ## OnPause Executed:
 
