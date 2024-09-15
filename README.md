@@ -121,6 +121,7 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT:
 ## OnCreate Executed:
+<img src="https://github.com/RoobeshRaoED/BASIC-ANDROID-_EX_01/blob/main/OnCreate%20Executed.png" width="400">
 ![](OnCreate%20Executed.png)
 
 ## OnPause Executed:
