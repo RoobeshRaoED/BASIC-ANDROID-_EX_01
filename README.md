@@ -1,13 +1,12 @@
 # BASIC-ANDROID-_EX_01_Implementation of a Hello world Activity using all lifecycles methods using Android Studio.
 
-
 ## AIM:
+
 To create Hello world Activity using all lifecycles methods to display messages using android studio.
 
 ## EQUIPMENTS REQUIRED:
 
 Android Studio(Min. required Artic Fox)
-
 
 ## ALGORITHM:
 
@@ -25,9 +24,7 @@ Step 6: Display message give in MainActivity file.
 
 Step 7: Save and run the application.
 
-
-## PROGRAM
-
+## PROGRAM:
 ### MainActivity.java:
 ```
 package com.example.andriodlifecycle;
@@ -118,6 +115,7 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## OUTPUT:
+
 ### OnCreate Executed:
 <img src="https://github.com/RoobeshRaoED/BASIC-ANDROID-_EX_01/blob/main/OnCreate%20Executed.png" width="400">
 
@@ -133,8 +131,6 @@ public class MainActivity extends AppCompatActivity {
 ### OnStart Executed:
 <img src="https://github.com/RoobeshRaoED/BASIC-ANDROID-_EX_01/blob/main/OnStart%20Executed.png" width="400">
 
-
-
-
 ## RESULT:
+
 Thus a program to implement the various life cycles of an activity is written and successfully executed using Android Studio.
