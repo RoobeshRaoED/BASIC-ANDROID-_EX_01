@@ -27,8 +27,6 @@ Step 7: Save and run the application.
 
 
 ## PROGRAM
-### DEVELOPED BY : Pavan Kalyan L
-### REGISTER NO: 212222040112
 
 ### MainActivity.java:
 ```
@@ -120,19 +118,19 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## OUTPUT:
-## OnCreate Executed:
+### OnCreate Executed:
 <img src="https://github.com/RoobeshRaoED/BASIC-ANDROID-_EX_01/blob/main/OnCreate%20Executed.png" width="400">
 
-## OnPause Executed:
+### OnPause Executed:
 <img src="https://github.com/RoobeshRaoED/BASIC-ANDROID-_EX_01/blob/main/OnPause%20Executed.png" width="400">
 
-## OnResume Executed:
+### OnResume Executed:
 <img src="https://github.com/RoobeshRaoED/BASIC-ANDROID-_EX_01/blob/main/OnResume%20Executed.png" width="400">
 
-## OnRestart Executed:
+### OnRestart Executed:
 <img src="https://github.com/RoobeshRaoED/BASIC-ANDROID-_EX_01/blob/main/OnRestart%20Executed.png" width="400">
 
-## OnStart Executed:
+### OnStart Executed:
 <img src="https://github.com/RoobeshRaoED/BASIC-ANDROID-_EX_01/blob/main/OnStart%20Executed.png" width="400">
 
 
